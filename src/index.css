@@ -1,0 +1,7 @@
+.flex {
+  display: flex;
+}
+
+.card {
+  border-radius: .7rem;
+}
